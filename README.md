@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python, Java, PHP
-- **Frameworks:** React, Node.js, Django, Laravel
+- **Frameworks:** Laravel
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [
 
 Here are some of my favorite projects:
 
-- **[Project Name 1](https://github.com/username/project1)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](https://github.com/username/project2)**: A brief description of what this project does and the technologies used.
-- **[Project Name 3](https://github.com/username/project3)**: A brief description of what this project does and the technologies used.
+- **[Project Name 1](https://github.com/Yasmeen-code/My-Store))**:
+- **[Project Name 2](https://github.com/Yasmeen-code/To-Do-List-Application)**:
+
 
 ## 📫 How to Reach Me
 
