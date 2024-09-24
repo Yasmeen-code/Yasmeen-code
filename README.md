@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [
 
 Here are some of my favorite projects:
 
-- **[Project Name 1](https://github.com/Yasmeen-code/My-Store))**:
-- **[Project Name 2](https://github.com/Yasmeen-code/To-Do-List-Application)**:
+- **[Project Name 1](https://github.com/Yasmeen-code/My-Store)**
+- **[Project Name 2](https://github.com/Yasmeen-code/To-Do-List-Application)**
 
 
 ## 📫 How to Reach Me
