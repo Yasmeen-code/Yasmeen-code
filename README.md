@@ -14,22 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm [Yasmeen]
 
-Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [Your Interests/Technologies].
+Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, PHP
+- **Languages:** JavaScript, Python, Java, PHP, C#, R, HTML, CSS
 - **Frameworks:** Laravel
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
-
-## 🌱 Currently Learning
-
-- [New Technology or Framework]
-- [New Language or Tool]
-
+- 
 ## 💼 Projects
 
 Here are some of my favorite projects:
@@ -40,15 +35,16 @@ Here are some of my favorite projects:
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Email:**
+- (yasmeensaleh707@gmail.com)
+- **LinkedIn:**
+-(https://www.linkedin.com/in/yasmeen-saleh-022826344)
 
 ## ⚡ Fun Facts
 
-- I love [a hobby or interest].
-- I enjoy [another hobby or interest].
-- I'm a fan of [favorite book, movie, or series].
+- I love reading and anime 
+- I enjoy cooking and karate.
+- I'm a fan of Lord of the Rings movie and a lot anime.
 
 ---
 
