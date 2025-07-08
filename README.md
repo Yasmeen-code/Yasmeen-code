@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Yasmeen
 
-Welcome to my GitHub profile! I'm a passionate software developer currently exploring the world of **Full Stack Web Development** using **PHP** and **Laravel**.
+Welcome to my GitHub profile! I'm a passionate software developer currently exploring the world of **Backend Web Development** using **PHP** and **Laravel**.
 
 ---
 
