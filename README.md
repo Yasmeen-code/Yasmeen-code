@@ -68,15 +68,6 @@ https://github.com/Yasmeen-code/ITI_graduation_project_2
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasmeen-code&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmeen-code&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -89,7 +80,7 @@ https://github.com/Yasmeen-code/ITI_graduation_project_2
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/yasmeen-saleh-022826344">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
